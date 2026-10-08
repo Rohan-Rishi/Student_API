@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Rohan Rishi",
+        "age": 20,
+        "course": "AIML"
+    },
+    {
+        "id": "2",
+        "name": "Arpit Kumar",
+        "age": 20,
+        "course": "Mechanical Engg"
+    },
+    {
+        "id": "3",
+        "name": "Pranmay Singh",
+        "age": 19,
+        "course": "Chemical Engg"
+    },
+    {
+        "id": "4",
+        "name": "Jibril",
+        "age": 18,
+        "course": "Civil Engg"
+    },
+    {
+        "id": "5",
+        "name": "Pranjal",
+        "age": 19,
+        "course": "Industrial"
+    }
+]
